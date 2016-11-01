@@ -6,7 +6,7 @@ How to execute:
 
 2. cd Distributed-Lab1-Java
 
-3. java -jar echo_client.jar <hoststring> <portno> (locally: java -jar echo_client.jar "http://localhost/echo-server.php/" 8000)
+3. java -jar echo_client.jar \[hoststring\] \[portno\] (locally: java -jar echo_client.jar "http://localhost/echo-server.php/" 8000)
 
 4. If everything goes correctly the program will ask for input to send to host and reply with uppercase version until user types "xxxxxx"
 
